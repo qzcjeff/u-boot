@@ -180,6 +180,7 @@
 	regulator-min-microvolt = <3300000>;
 	regulator-max-microvolt = <3300000>;
 	regulator-name = "vcc-motor";
+};
 
 &reg_drivevbus {
 	regulator-name = "usb0-vbus";
